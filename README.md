@@ -1,1 +1,2 @@
-# fri-rso-2025
+# Cloud Computing 2025/2026 project
+TODO
